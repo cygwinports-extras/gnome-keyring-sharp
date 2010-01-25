@@ -1,5 +1,0 @@
-SVN_REV=${PVP[3]}
-inherit mono svn
-
-DESCRIPTION=".NET gnome-keyring bindings"
-

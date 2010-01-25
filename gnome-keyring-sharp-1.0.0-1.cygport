@@ -1,0 +1,6 @@
+inherit mono
+
+DESCRIPTION="Mono gnome-keyring bindings"
+
+PKG_NAMES="${PN} mono-Gnome-Keyring1.0"
+mono_Gnome_Keyring1_0_CONTENTS="usr/"

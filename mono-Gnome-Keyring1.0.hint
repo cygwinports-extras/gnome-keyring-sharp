@@ -1,0 +1,8 @@
+category: DotNET
+requires: gnome-keyring mono mono-NDesk-DBus1.0
+external-source: gnome-keyring-sharp
+sdesc: ".NET managed Gnome Keyring client library"
+ldesc: "gnome-keyring-sharp is a fully managed implementation of 
+libgnome-keyring.  When the gnome-keyring-daemon is running, you can use 
+this to retrive/store confidential information such as passwords, notes 
+or network services user information."
